@@ -1,0 +1,126 @@
+[
+  {
+    "domain": "stripe.com",
+    "name": "Stripe",
+    "score": 10,
+    "recommendation": "High priority",
+    "contact": "Kevin Bognar",
+    "title": "Vice President of Sales",
+    "email": "kbognar@stripe.com",
+    "sequence": [
+      {
+        "step": 1,
+        "type": "intro",
+        "subject": "GTM enrichment \u2192 Stripe's agentic commerce push",
+        "body": "Hi Kevin,\n\nNoticed Stripe has been expanding hard into agentic commerce \u2014 the Head of Agentic Commerce hire was a signal hard to miss.\n\nWe built a pipeline that automatically enriches accounts, scores them for ICP fit, and generates personalized openers using AI. Sales teams using it are cutting account research time from 45 minutes to under 2.\n\nWorth a 15-minute look?\n\nCourtney"
+      },
+      {
+        "step": 2,
+        "type": "follow_up",
+        "subject": "Re: GTM enrichment \u2192 Stripe's agentic commerce push",
+        "body": "Hi Kevin,\n\nFollowing up on my note from last week.\n\nOne thing that might be relevant for Stripe specifically: our pipeline handles high-volume account lists without losing personalization quality \u2014 which I imagine matters as you scale the agentic commerce motion.\n\nHappy to show you a live demo on your own target accounts.\n\nCourtney"
+      },
+      {
+        "step": 3,
+        "type": "breakup",
+        "subject": "Closing the loop",
+        "body": "Hi Kevin,\n\nI'll stop following up after this \u2014 I know you're busy.\n\nIf automating account research ever becomes a priority, I'm at courtney@example.com.\n\nEither way, good luck with the agentic commerce build \u2014 it's genuinely exciting work.\n\nCourtney"
+      }
+    ]
+  },
+  {
+    "domain": "vercel.com",
+    "name": "Vercel",
+    "score": 10,
+    "recommendation": "High priority",
+    "contact": "Gaspar Garcia",
+    "title": "Head of AI Research",
+    "email": "gaspar.garcia@vercel.com",
+    "sequence": [
+      {
+        "step": 1,
+        "type": "intro",
+        "subject": "AI in your GTM motion \u2014 not just your product",
+        "body": "Hi Gaspar,\n\nYou're thinking about AI in Vercel's product every day \u2014 curious if anyone is thinking about AI in Vercel's GTM motion.\n\nWe built a pipeline that uses LLMs to score accounts, select the right contact, and generate personalized outreach at scale. The same principles you'd apply to a good AI product \u2014 structured outputs, eval-first design, measurable quality.\n\nWould love to show you what that looks like in practice.\n\nCourtney"
+      },
+      {
+        "step": 2,
+        "type": "follow_up",
+        "subject": "Re: AI in your GTM motion \u2014 not just your product",
+        "body": "Hi Gaspar,\n\nQuick follow-up \u2014 I thought this might resonate given your background.\n\nThe part that tends to surprise technical folks: the hardest problem isn't the LLM call, it's the data quality upstream. Bad enrichment data produces bad personalization no matter how good your prompt is.\n\nHappy to walk through how we handle that if it's useful.\n\nCourtney"
+      },
+      {
+        "step": 3,
+        "type": "breakup",
+        "subject": "Closing the loop",
+        "body": "Hi Gaspar,\n\nLast note from me \u2014 if AI-powered GTM tooling ever becomes relevant, I'm easy to find.\n\nAppreciate the work you're doing on Vercel's AI infrastructure. Following it closely.\n\nCourtney"
+      }
+    ]
+  },
+  {
+    "domain": "retool.com",
+    "name": "Retool",
+    "score": 10,
+    "recommendation": "High priority",
+    "contact": "David Hsu",
+    "title": "CEO",
+    "email": "david@retool.com",
+    "sequence": [
+      {
+        "step": 1,
+        "type": "intro",
+        "subject": "Built this with the same philosophy as Retool",
+        "body": "Hi David,\n\nRetool's thesis is that internal tools shouldn't require a full eng sprint to build. We applied the same thinking to GTM infrastructure.\n\nWe built a pipeline that enriches accounts, scores them for ICP fit, and generates personalized outreach \u2014 all in a system a GTM engineer can own and extend without touching a CRM vendor's UI.\n\nGiven what you've built at Retool, I think you'd have opinions on this. Worth 15 minutes?\n\nCourtney"
+      },
+      {
+        "step": 2,
+        "type": "follow_up",
+        "subject": "Re: Built this with the same philosophy as Retool",
+        "body": "Hi David,\n\nFollowing up \u2014 one thing I didn't mention: the whole pipeline outputs to a React dashboard that a sales team can actually use.\n\nIt felt wrong to build a GTM engineering tool that only lives in a terminal. You'd probably agree.\n\nCourtney"
+      },
+      {
+        "step": 3,
+        "type": "breakup",
+        "subject": "Closing the loop",
+        "body": "Hi David,\n\nLast one from me.\n\nIf you ever want to see what a builder-first GTM stack looks like in practice, I'm at courtney@example.com.\n\nGood luck with Retool \u2014 it's genuinely one of the most interesting companies in the space.\n\nCourtney"
+      }
+    ]
+  },
+  {
+    "domain": "linear.app",
+    "name": "Linear",
+    "score": 9,
+    "recommendation": "High priority",
+    "contact": "Casey Bertenthal",
+    "title": "Sales Director",
+    "email": "casey@linear.app",
+    "sequence": [
+      {
+        "step": 1,
+        "type": "intro",
+        "subject": "Scaling Linear's outbound beyond PLG",
+        "body": "Hi Casey,\n\nProduct-led growth gets you to a point \u2014 then someone has to build the outbound motion. Looks like that's you.\n\nWe built a pipeline that automates the research-heavy part of outbound: enriching accounts, scoring them for fit, and generating personalized first lines using AI. Sales directors at dev-tool companies are using it to run leaner, faster prospecting.\n\nWorth a look?\n\nCourtney"
+      },
+      {
+        "step": 2,
+        "type": "follow_up",
+        "subject": "Re: Scaling Linear's outbound beyond PLG",
+        "body": "Hi Casey,\n\nFollowing up quickly \u2014 the part most relevant to a PLG-to-outbound transition: our scoring logic prioritizes accounts already showing product signals, so your reps are calling people who've already expressed intent.\n\nHappy to show you how that works on Linear's actual target accounts.\n\nCourtney"
+      },
+      {
+        "step": 3,
+        "type": "breakup",
+        "subject": "Closing the loop",
+        "body": "Hi Casey,\n\nI'll leave it here.\n\nIf automating account research becomes a priority as you scale Linear's outbound, I'm easy to find.\n\nGood luck with the motion \u2014 PLG companies building outbound is one of the more interesting GTM challenges right now.\n\nCourtney"
+      }
+    ]
+  },
+  {
+    "domain": "notion.so",
+    "name": "Notion",
+    "score": 5,
+    "recommendation": "Low priority",
+    "sequence": null,
+    "reason": "Skipped \u2014 low priority account"
+  }
+]
