@@ -1,0 +1,86 @@
+[
+  {
+    "domain": "stripe.com",
+    "name": "Stripe",
+    "score": 10,
+    "emails_found": 10,
+    "reasons": [
+      "Mid-level contact available: Head of Engineering",
+      "Mid-level contact available: Head of Agentic Commerce",
+      "Executive contact available: Vice President of Sales",
+      "High email coverage (10+)"
+    ],
+    "best_contact": {
+      "first_name": "Kevin",
+      "last_name": "Bognar",
+      "email": "kbognar@stripe.com",
+      "position": "Vice President of Sales"
+    },
+    "recommendation": "High priority"
+  },
+  {
+    "domain": "vercel.com",
+    "name": "Vercel",
+    "score": 10,
+    "emails_found": 10,
+    "reasons": [
+      "Senior contact available: Director of Project Management Office",
+      "Mid-level contact available: Head of AI Research",
+      "Senior contact available: Director of Finance",
+      "High email coverage (10+)"
+    ],
+    "best_contact": {
+      "first_name": "Andrew",
+      "last_name": "Jones",
+      "email": "andrew.jones@vercel.com",
+      "position": "Director of Project Management Office"
+    },
+    "recommendation": "High priority"
+  },
+  {
+    "domain": "retool.com",
+    "name": "Retool",
+    "score": 10,
+    "emails_found": 10,
+    "reasons": [
+      "Senior contact available: Director of Accounting",
+      "Senior contact available: Director of Communications",
+      "Executive contact available: CEO",
+      "High email coverage (10+)"
+    ],
+    "best_contact": {
+      "first_name": "David",
+      "last_name": "Hsu",
+      "email": "david@retool.com",
+      "position": "CEO"
+    },
+    "recommendation": "High priority"
+  },
+  {
+    "domain": "linear.app",
+    "name": "Linear",
+    "score": 9,
+    "emails_found": 10,
+    "reasons": [
+      "Senior contact available: Sales Director",
+      "Mid-level contact available: Head of Product Design",
+      "High email coverage (10+)"
+    ],
+    "best_contact": {
+      "first_name": "Casey",
+      "last_name": "Bertenthal",
+      "email": "casey@linear.app",
+      "position": "Sales Director"
+    },
+    "recommendation": "High priority"
+  },
+  {
+    "domain": "notion.so",
+    "name": "Notion",
+    "score": 5,
+    "emails_found": 1,
+    "reasons": [],
+    "best_contact": null,
+    "recommendation": "Low priority"
+  }
+]

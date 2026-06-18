@@ -1,0 +1,140 @@
+[
+  {
+    "domain": "stripe.com",
+    "name": "Stripe",
+    "industry": null,
+    "location": null,
+    "employee_count": null,
+    "linkedin_url": null,
+    "twitter": null,
+    "emails_found": 10,
+    "top_contacts": [
+      {
+        "first_name": "Aylin",
+        "last_name": "Orakcal",
+        "email": "aylin@stripe.com",
+        "position": "Head of Engineering"
+      },
+      {
+        "first_name": "Jake",
+        "last_name": "Sinsheimer",
+        "email": "jakes@stripe.com",
+        "position": "Head of Agentic Commerce"
+      },
+      {
+        "first_name": "Kevin",
+        "last_name": "Bognar",
+        "email": "kbognar@stripe.com",
+        "position": "Vice President of Sales"
+      }
+    ]
+  },
+  {
+    "domain": "notion.so",
+    "name": "Notion",
+    "industry": null,
+    "location": null,
+    "employee_count": null,
+    "linkedin_url": null,
+    "twitter": null,
+    "emails_found": 1,
+    "top_contacts": [
+      {
+        "first_name": null,
+        "last_name": null,
+        "email": "noreply@notion.so",
+        "position": null
+      }
+    ]
+  },
+  {
+    "domain": "linear.app",
+    "name": "Linear",
+    "industry": null,
+    "location": null,
+    "employee_count": null,
+    "linkedin_url": null,
+    "twitter": null,
+    "emails_found": 10,
+    "top_contacts": [
+      {
+        "first_name": "Casey",
+        "last_name": "Bertenthal",
+        "email": "casey@linear.app",
+        "position": "Sales Director"
+      },
+      {
+        "first_name": "Conor",
+        "last_name": "Muirhead",
+        "email": "conor@linear.app",
+        "position": "Head of Product Design"
+      },
+      {
+        "first_name": "Cristina",
+        "last_name": "Cordova",
+        "email": "cristina@linear.app",
+        "position": "Chief Operating Officer"
+      }
+    ]
+  },
+  {
+    "domain": "vercel.com",
+    "name": "Vercel",
+    "industry": null,
+    "location": null,
+    "employee_count": null,
+    "linkedin_url": null,
+    "twitter": null,
+    "emails_found": 10,
+    "top_contacts": [
+      {
+        "first_name": "Andrew",
+        "last_name": "Jones",
+        "email": "andrew.jones@vercel.com",
+        "position": "Director of Project Management Office"
+      },
+      {
+        "first_name": "Gaspar",
+        "last_name": "Garcia",
+        "email": "gaspar.garcia@vercel.com",
+        "position": "Head of AI Research"
+      },
+      {
+        "first_name": "Shreya",
+        "last_name": "Seth",
+        "email": "shreya.seth@vercel.com",
+        "position": "Director of Finance"
+      }
+    ]
+  },
+  {
+    "domain": "retool.com",
+    "name": "Retool",
+    "industry": null,
+    "location": null,
+    "employee_count": null,
+    "linkedin_url": null,
+    "twitter": null,
+    "emails_found": 10,
+    "top_contacts": [
+      {
+        "first_name": "Chloe",
+        "last_name": "Lee",
+        "email": "chloe@retool.com",
+        "position": "Director of Accounting"
+      },
+      {
+        "first_name": "Tommy",
+        "last_name": "Collison",
+        "email": "tommy@retool.com",
+        "position": "Director of Communications"
+      },
+      {
+        "first_name": "David",
+        "last_name": "Hsu",
+        "email": "david@retool.com",
+        "position": "CEO"
+      }
+    ]
+  }
+]

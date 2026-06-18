@@ -1,0 +1,60 @@
+[
+  {
+    "domain": "stripe.com",
+    "name": "Stripe",
+    "score": 10,
+    "recommendation": "High priority",
+    "emails_found": 10,
+    "best_contact_email": "kbognar@stripe.com",
+    "best_contact_name": "Kevin Bognar",
+    "best_contact_title": "Vice President of Sales",
+    "opener": "Kevin, given Stripe's rapid expansion into agentic commerce, I'd love to show you how we're helping VP-level sales leaders automate their GTM enrichment stack.",
+    "reasoning": "VP of Sales is the highest-value contact for a GTM tool \u2014 directly owns the pipeline and outbound motion."
+  },
+  {
+    "domain": "vercel.com",
+    "name": "Vercel",
+    "score": 10,
+    "recommendation": "High priority",
+    "emails_found": 10,
+    "best_contact_email": "gaspar.garcia@vercel.com",
+    "best_contact_name": "Gaspar Garcia",
+    "best_contact_title": "Head of AI Research",
+    "opener": "Gaspar, given Vercel's investment in AI infrastructure, I imagine your team is thinking hard about how AI fits into your own GTM motion \u2014 we're helping teams like yours automate exactly that.",
+    "reasoning": "Head of AI Research is a better fit than Director of PMO \u2014 they'll immediately understand the technical value proposition of an AI-powered GTM tool."
+  },
+  {
+    "domain": "retool.com",
+    "name": "Retool",
+    "score": 10,
+    "recommendation": "High priority",
+    "emails_found": 10,
+    "best_contact_email": "david@retool.com",
+    "best_contact_name": "David Hsu",
+    "best_contact_title": "CEO",
+    "opener": "David, Retool's positioning as the internal tools platform makes your team uniquely positioned to understand why we built our GTM enrichment pipeline the way we did \u2014 would love 15 minutes.",
+    "reasoning": "CEO at a company this size is directly involved in GTM decisions and will immediately grasp the builder-first value prop."
+  },
+  {
+    "domain": "linear.app",
+    "name": "Linear",
+    "score": 9,
+    "recommendation": "High priority",
+    "emails_found": 10,
+    "best_contact_email": "casey@linear.app",
+    "best_contact_name": "Casey Bertenthal",
+    "best_contact_title": "Sales Director",
+    "opener": "Casey, as Linear scales its sales motion beyond product-led growth, I'd love to show you how we're helping sales directors at dev-tool companies automate their account research and enrichment.",
+    "reasoning": "Sales Director owns the outbound motion directly and will have immediate context on the pain points our tool solves."
+  },
+  {
+    "domain": "notion.so",
+    "name": "Notion",
+    "score": 5,
+    "recommendation": "Low priority",
+    "emails_found": 1,
+    "best_contact": null,
+    "opener": null,
+    "reasoning": "Skipped \u2014 low priority account"
+  }
+]
