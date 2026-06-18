@@ -1,18 +1,19 @@
 {
   "domain": "stripe.com",
   "name": "Stripe",
-  "job_score": 4,
+  "job_score": 5,
   "job_reasons": [
     "Growing GTM team: Marketing Operations Manager - Stripe",
     "Growing GTM team: Sales Strategy & Operations Business Partner - Stripe",
     "Growing GTM team: Marketing Operations Program Manager, Sold Funnel - LinkedIn"
   ],
-  "news_score": 4,
+  "news_score": 5,
   "news_reasons": [
+    "Expansion signal: Our top product updates from Sessions 2025 - Stripe",
     "Expansion signal: Stripe Newsroom: The Latest News & Announcements",
-    "Funding signal: Stripe Valuation in 2025: Smart Investment or Just Hype?"
+    "Funding signal: Stripe (@stripe) on X"
   ],
-  "total_signal_score": 8,
+  "total_signal_score": 10,
   "raw_jobs": [
     {
       "title": "Marketing Operations Manager - Stripe",
@@ -35,35 +36,35 @@
       "link": "https://www.linkedin.com/jobs/view/marketing-operations-program-manager-sold-funnel-at-stripe-4416473563"
     },
     {
-      "title": "Marketing Operations Specialist (Lead Generation) - Stripe",
-      "snippet": "We are looking for someone who is passionate about Marketing Operations and thrives in dynamic, complex environments. You are naturally curious, collaborative ...",
-      "link": "https://stripe.com/jobs/listing/marketing-operations-specialist-lead-generation/7025164?__cf_chl_jschl_tk__=pmd_f6969fc42a4f39e3af2950c0e26100501dd9e9b3-1629084041-0-gqNtZGzNAiKjcnBszQiO&gh_src=14f171ca1"
+      "title": "Stripe Jobs",
+      "snippet": "We operate at significant scale, but we're tiny relative to the opportunity ahead. Want to join us? See what career opportunities are available across our ...",
+      "link": "https://stripe.com/jobs/search"
     }
   ],
   "raw_news": [
     {
       "title": "Stripe publishes 2025 annual letter and announces tender offer to ...",
-      "snippet": "Stripe publishes 2025 annual letter and announces tender offer to provide liquidity to current and former employees February 24, 2026 es ...",
+      "snippet": "Stripe announces tender offer to provide liquidity to current and former employees; publishes 2025 annual letter.",
       "link": "https://stripe.com/newsroom/news/stripe-2025-update"
     },
     {
+      "title": "Our top product updates from Sessions 2025 - Stripe",
+      "snippet": "This post recaps the top announcements and product releases. For a more detailed list of what's new since Sessions last year, see our changelog.",
+      "link": "https://stripe.com/blog/top-product-updates-sessions-2025"
+    },
+    {
       "title": "Stripe Newsroom: The Latest News & Announcements",
-      "snippet": "Stripe publishes 2025 annual letter and announces tender offer to provide liquidity to current and former employees February 24,",
+      "snippet": "Read the latest news and information from Stripe, including corporate and product announcements, research reports, brand assets, and more.",
       "link": "https://stripe.com/newsroom/news"
     },
     {
       "title": "Stripe (@stripe) on X",
-      "snippet": "Our 2025 annual letter Dear businesses running on Stripe generated $1.9 trillion in total volume, up 34% from 2024, and equivalent to roughly 1 ...",
+      "snippet": "A Y Combinator founder can now receive funding in stablecoins, hold them in a Stripe ... Funding volume grew 45% from 2024 to 2025, with Stripe ...",
       "link": "https://x.com/stripe/status/2026294241450979364"
     },
     {
-      "title": "Stripe's 2025 annual letter",
-      "snippet": "In 2025, businesses on Stripe generated $1.9 trillion\u2014equivalent to 1.6% of global GDP\u2014even as the economy bifurcated.",
-      "link": "https://stripe.com/annual-updates/2025"
-    },
-    {
       "title": "Stripe Valuation in 2025: Smart Investment or Just Hype?",
-      "snippet": "Reuters reported in 2025 that Stripe's valuation reached $91.5 billion. The. As of June 2025, no IPO date has been scheduled for the future. ...",
+      "snippet": "Explore Stripe's valuation in 2025 \u2014 what's driving it, what investors think, and whether it still offers potential.",
       "link": "https://www.fintechweekly.com/magazine/articles/stripe-valuation-in-2025"
     }
   ]

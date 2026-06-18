@@ -4,13 +4,13 @@
   "job_score": 2,
   "job_reasons": [
     "Growing GTM team: Head of Marketing Strategy & Operations - Notion",
-    "Growing GTM team: Marketing Operations Lead at Notion - Startup Jobs"
+    "Growing GTM team: Marketing Strategy & Operations Manager (SF) - Base10 Job Board"
   ],
   "news_score": 5,
   "news_reasons": [
-    "Funding signal: Notion Statistics 2026: Growth, Revenue & Impact - SQ Magazine",
-    "Expansion signal: GIC, Sequoia, Index purchase Notion shares in private tender offer",
-    "Funding signal: Notion - 2026 Company Profile, Team, Funding & Competitors - Tracxn"
+    "Growth signal: Notion launches AI agent as it crosses $500 million in annual revenue",
+    "Funding signal: Notion - 2026 Company Profile, Team, Funding & Competitors - Tracxn",
+    "Expansion signal: GIC, Sequoia, Index purchase Notion shares in private tender offer"
   ],
   "total_signal_score": 7,
   "raw_jobs": [
@@ -18,6 +18,11 @@
       "title": "Careers at Notion | We're Hiring!",
       "snippet": "Dive into the 3 organizations that make up our team at Notion - EPD (Engineering, Product, Design), Go-to-Market, and Foundation (G&A) and how we work together.",
       "link": "https://www.notion.com/careers"
+    },
+    {
+      "title": "Notion NYC Jobs + Careers",
+      "snippet": "Explore jobs and careers at Notion in NYC. Notion is currently hiring for a range of positions.",
+      "link": "https://www.builtinnyc.com/company/notion/jobs"
     },
     {
       "title": "Head of Marketing Strategy & Operations - Notion",
@@ -30,17 +35,17 @@
       "link": "https://www.linkedin.com/company/notionhq/jobs"
     },
     {
-      "title": "Marketing Operations Lead at Notion - Startup Jobs",
-      "snippet": "We're looking for a seasoned marketing operations expert to be the first of their kind at Notion and build this function from scratch. You'll have the buy-in ...",
-      "link": "https://startup.jobs/marketing-operations-lead-notion-1736757"
-    },
-    {
-      "title": "Sales Operations Lead, AMER - Notion - Index Ventures",
-      "snippet": "In this position, you'll play a crucial role in shaping our go-to-market strategy and driving data-informed decision-making within the AMER ...",
-      "link": "https://www.indexventures.com/startup-jobs/notion/sales-operations-lead-amer/"
+      "title": "Marketing Strategy & Operations Manager (SF) - Base10 Job Board",
+      "snippet": "In this role, you'll own the reporting, metrics, and insights that shape how we plan, measure, and optimize marketing performance. You'll ...",
+      "link": "https://careers.base10.vc/companies/notion-2/jobs/61028175-marketing-strategy-operations-manager"
     }
   ],
   "raw_news": [
+    {
+      "title": "Notion launches AI agent as it crosses $500 million in annual revenue",
+      "snippet": "The AI wave has pushed Notion past $500 million in annualized revenue, the company now tells CNBC, which ranked the company 34th on its 2025 ...",
+      "link": "https://www.cnbc.com/2025/09/18/notion-launches-ai-agent-as-it-crosses-500-million-in-annual-revenue.html"
+    },
     {
       "title": "Notion at $11 Billion: The Art of Growing Into Your Valuation - SaaStr",
       "snippet": "At $600M ARR growing ~50%+, they could hit $900M-$1B by the end of 2026. At public SaaS multiples of 15-20x for a company growing that fast, ...",
@@ -52,19 +57,14 @@
       "link": "https://www.reddit.com/r/Notion/comments/1ixc5x4/notion_in_25_years/"
     },
     {
-      "title": "Notion Statistics 2026: Growth, Revenue & Impact - SQ Magazine",
-      "snippet": "Notion has raised approximately $352\u2013353 million in funding, including a $275 million Series D in October 2021. Valuation saw rapid climbs, from ...",
-      "link": "https://sqmagazine.co.uk/notion-statistics/"
+      "title": "Notion - 2026 Company Profile, Team, Funding & Competitors - Tracxn",
+      "snippet": "Notion has raised $418M in funding from investors like Accel, First Round Capital and Sequoia Capital, with a current valuation of $11B. The ...",
+      "link": "https://tracxn.com/d/companies/notion/__LQ8wyN9zLT-OwulhqbMYvw0Ayznneiugbu_OaKuGD4U"
     },
     {
       "title": "GIC, Sequoia, Index purchase Notion shares in private tender offer",
       "snippet": "2025 was the best year yet for Notion, and 2026 is going to be even more exciting, with new products like custom agents bringing more ways ...",
       "link": "https://www.notion.com/blog/gic-sequoia-index-purchase-notion-shares"
-    },
-    {
-      "title": "Notion - 2026 Company Profile, Team, Funding & Competitors - Tracxn",
-      "snippet": "Notion has raised $418M in funding from investors like Accel, First Round Capital and Sequoia Capital, with a current valuation of $11B. The ...",
-      "link": "https://tracxn.com/d/companies/notion/__LQ8wyN9zLT-OwulhqbMYvw0Ayznneiugbu_OaKuGD4U"
     }
   ]
 }

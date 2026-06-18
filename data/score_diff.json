@@ -1,0 +1,18 @@
+{
+  "run_id_new": "run_20260618_213253_5e3386",
+  "run_id_old": "run_20260618_212828_35eef7",
+  "changes": [
+    {
+      "domain": "stripe.com",
+      "name": "Stripe",
+      "type": "increase",
+      "old_score": 9.4,
+      "new_score": 10.0,
+      "delta": 0.6,
+      "old_recommendation": "High priority",
+      "new_recommendation": "High priority",
+      "alert": false
+    }
+  ],
+  "alerts": []
+}
