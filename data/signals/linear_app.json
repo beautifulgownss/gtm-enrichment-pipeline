@@ -1,17 +1,18 @@
 {
   "domain": "linear.app",
   "name": "Linear",
-  "job_score": 1,
+  "job_score": 2,
   "job_reasons": [
-    "Growing GTM team: Jobs at Linear | Sequoia Capital"
+    "Growing GTM team: Jobs at Linear | Sequoia Capital",
+    "Growing GTM team: Marketing Operations Lead - Klaviyo | Built In Boston"
   ],
   "news_score": 5,
   "news_reasons": [
-    "Funding signal: Linear - 2026 Company Profile, Team, Funding & Competitors - Tracxn",
-    "Funding signal: Building our way: Announcing our Series C - Linear",
-    "Funding signal: Linear's Funding and Investor Information | Total Raised: $134M - Exa"
+    "Funding signal: Linear - 2026 Company Profile & Team",
+    "Funding signal: Building our way: Announcing our Series C",
+    "Funding signal: Linear's Funding and Investor Information | Total Raised"
   ],
-  "total_signal_score": 6,
+  "total_signal_score": 7,
   "raw_jobs": [
     {
       "title": "We're hiring \u2013 Linear",
@@ -24,14 +25,14 @@
       "link": "https://jobs.sequoiacap.com/jobs/linear"
     },
     {
+      "title": "Marketing Operations Lead - Klaviyo | Built In Boston",
+      "snippet": "We're looking for a Marketing Operations Lead to own and optimize the systems, processes, and integrations that power our inbound and demand generation engine.",
+      "link": "https://www.builtinboston.com/job/marketing-operations-lead/8390401"
+    },
+    {
       "title": "Linear careers are breaking. | Usman Sheikh - LinkedIn",
       "snippet": "Linear careers are breaking. Here's how to build something stronger: By 2027, AI automation will erode the value of more than 60% of ...",
       "link": "https://www.linkedin.com/posts/usmans_linear-careers-are-breaking-heres-how-activity-7331989851845582848-oztY"
-    },
-    {
-      "title": "Careers - MaxLinear",
-      "snippet": "Join MaxLinear to shape the future of networking and communications technology. You'll work with leading companies such as Dell, Meta, Comcast, Vodafone.",
-      "link": "https://www.maxlinear.com/company/careers"
     },
     {
       "title": "Debunking linear career path expectations in 2026 - Facebook",
@@ -41,29 +42,29 @@
   ],
   "raw_news": [
     {
-      "title": "Linear - 2026 Company Profile, Team, Funding & Competitors - Tracxn",
+      "title": "Linear - 2026 Company Profile & Team",
       "snippet": "Linear's latest funding was a $82M Series C round on Jun 10, 2025, with participation from 9investors. Where does Linear rank among its ...",
       "link": "https://tracxn.com/d/companies/linear/__xC97n-jdX7VZjDBpNyRfVH-H_Elzu354nD5Yz5FaUVI"
     },
     {
-      "title": "Building our way: Announcing our Series C - Linear",
-      "snippet": "June 10, 2025 Today, we've raised an $82M Series C at a $1.25B valuation. The round includes both primary and secondary funding,",
+      "title": "Building our way: Announcing our Series C",
+      "snippet": "Today, I'm happy to share that we've raised an $82M Series C at a $1.25B valuation. The round includes both primary and secondary funding, led ...",
       "link": "https://linear.app/now/building-our-way"
     },
     {
-      "title": "Linear's Funding and Investor Information | Total Raised: $134M - Exa",
-      "snippet": "With a significant $82 million raised and a new $1.25 billion valuation, Linear focused these funds on expanding its engineering teams, growing internationally,",
+      "title": "Linear's Funding and Investor Information | Total Raised",
+      "snippet": "With a significant $82 million raised and a new $1.25 billion valuation, Linear focused these funds on expanding its engineering teams, growing internationally, ...",
       "link": "https://exa.ai/websets/directory/linear-funding"
     },
     {
-      "title": "Software Development Company Linear Raises $82M Series C at ...",
-      "snippet": "Linear, a remote company building product development solutions, announced an $82 million round of Series C funding on Tuesday.",
-      "link": "https://www.builtinsf.com/articles/linear-raises-82m-series-c-1b-valuation-20250611"
-    },
-    {
-      "title": "Linear Raises $82 Million in Series C - The SaaS News",
+      "title": "Linear Raises $82 Million in Series C",
       "snippet": "Linear, a San Francisco, CA-based purpose-built tool for modern product development, has raised an $82 million Series C round at a $1.25 billion ...",
       "link": "https://www.thesaasnews.com/news/linear-raises-82-million-in-series-c/"
+    },
+    {
+      "title": "Software Development Company Linear Raises $82M ...",
+      "snippet": "Linear, a remote company building product development solutions, announced an $82 million round of Series C funding on Tuesday.",
+      "link": "https://www.builtinsf.com/articles/linear-raises-82m-series-c-1b-valuation-20250611"
     }
   ]
 }

@@ -54,14 +54,14 @@
     "job_score": 5,
     "job_reasons": [
       "Growing GTM team: Careers - Retool",
-      "Scaling sales team: Revenue Operations Manager, Marketing - Retool",
-      "Growing GTM team: Senior Product Marketing Manager - Retool"
+      "Scaling sales team: Retool - Customer Success Strategy & Operations Lead - Built In NYC",
+      "Hiring senior sales leader: Head of Sales Development - Retool"
     ],
     "news_score": 5,
     "news_reasons": [
       "Expansion signal: Retool Newsroom | Press releases, Media kit, Company news",
       "Funding signal: Retool - 2026 Company Profile, Team, Funding & Competitors - Tracxn",
-      "Funding signal: I studied how Retool (YC W17) went from zero to a $3.2 billion ..."
+      "Funding signal: How Much Did Retool Raise? Funding & Key Investors - Clay"
     ],
     "total_signal_score": 10,
     "composite_score": 10.0,
@@ -91,13 +91,13 @@
       "Growing GTM team: Sales Strategy & Operations Business Partner - Stripe",
       "Growing GTM team: Marketing Operations Program Manager, Sold Funnel - LinkedIn"
     ],
-    "news_score": 2,
+    "news_score": 4,
     "news_reasons": [
       "Expansion signal: Stripe Newsroom: The Latest News & Announcements",
-      "Expansion signal: Our top product updates from Sessions 2025 - Stripe"
+      "Funding signal: Stripe Valuation in 2025: Smart Investment or Just Hype?"
     ],
-    "total_signal_score": 6,
-    "composite_score": 8.8,
+    "total_signal_score": 8,
+    "composite_score": 9.4,
     "final_recommendation": "High priority"
   },
   {
@@ -117,18 +117,19 @@
       "position": "Sales Director"
     },
     "recommendation": "High priority",
-    "job_score": 1,
+    "job_score": 2,
     "job_reasons": [
-      "Growing GTM team: Jobs at Linear | Sequoia Capital"
+      "Growing GTM team: Jobs at Linear | Sequoia Capital",
+      "Growing GTM team: Marketing Operations Lead - Klaviyo | Built In Boston"
     ],
     "news_score": 5,
     "news_reasons": [
-      "Funding signal: Linear - 2026 Company Profile, Team, Funding & Competitors - Tracxn",
-      "Funding signal: Building our way: Announcing our Series C - Linear",
-      "Funding signal: Linear's Funding and Investor Information | Total Raised: $134M - Exa"
+      "Funding signal: Linear - 2026 Company Profile & Team",
+      "Funding signal: Building our way: Announcing our Series C",
+      "Funding signal: Linear's Funding and Investor Information | Total Raised"
     ],
-    "total_signal_score": 6,
-    "composite_score": 8.1,
+    "total_signal_score": 7,
+    "composite_score": 8.4,
     "final_recommendation": "High priority"
   },
   {
@@ -139,20 +140,19 @@
     "reasons": [],
     "best_contact": null,
     "recommendation": "Low priority",
-    "job_score": 3,
+    "job_score": 2,
     "job_reasons": [
-      "Growing GTM team: Careers at Notion | We're Hiring!",
       "Growing GTM team: Head of Marketing Strategy & Operations - Notion",
-      "Growing GTM team: Marketing Strategy & Operations Manager (SF) - Base10 Job Board"
+      "Growing GTM team: Marketing Operations Lead at Notion - Startup Jobs"
     ],
     "news_score": 5,
     "news_reasons": [
-      "Growth signal: Notion launches AI agent as it crosses $500 million in annual revenue",
-      "Funding signal: Notion - 2026 Company Profile, Team, Funding & Competitors - Tracxn",
-      "Expansion signal: GIC, Sequoia, Index purchase Notion shares in private tender offer"
+      "Funding signal: Notion Statistics 2026: Growth, Revenue & Impact - SQ Magazine",
+      "Expansion signal: GIC, Sequoia, Index purchase Notion shares in private tender offer",
+      "Funding signal: Notion - 2026 Company Profile, Team, Funding & Competitors - Tracxn"
     ],
-    "total_signal_score": 8,
-    "composite_score": 5.9,
+    "total_signal_score": 7,
+    "composite_score": 5.6,
     "final_recommendation": "Medium priority"
   }
 ]

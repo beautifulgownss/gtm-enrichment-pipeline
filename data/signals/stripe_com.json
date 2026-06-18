@@ -7,12 +7,12 @@
     "Growing GTM team: Sales Strategy & Operations Business Partner - Stripe",
     "Growing GTM team: Marketing Operations Program Manager, Sold Funnel - LinkedIn"
   ],
-  "news_score": 2,
+  "news_score": 4,
   "news_reasons": [
     "Expansion signal: Stripe Newsroom: The Latest News & Announcements",
-    "Expansion signal: Our top product updates from Sessions 2025 - Stripe"
+    "Funding signal: Stripe Valuation in 2025: Smart Investment or Just Hype?"
   ],
-  "total_signal_score": 6,
+  "total_signal_score": 8,
   "raw_jobs": [
     {
       "title": "Marketing Operations Manager - Stripe",
@@ -52,19 +52,19 @@
       "link": "https://stripe.com/newsroom/news"
     },
     {
-      "title": "Our top product updates from Sessions 2025 - Stripe",
-      "snippet": "This post recaps the top announcements and product releases. For a more detailed list of what's new since Sessions last year, see our changelog.",
-      "link": "https://stripe.com/blog/top-product-updates-sessions-2025"
-    },
-    {
-      "title": "Stripe Stats for 2026: The Most Accurate Stripe Statistics Online",
-      "snippet": "Stripe's estimated gross revenue hit $19.4 billion in 2025, a 61.67% increase since 2021. Stripe's valuation reached $159 billion in February 2026 via a tender ...",
-      "link": "https://www.chargeflow.io/blog/stripe-statistics"
-    },
-    {
       "title": "Stripe (@stripe) on X",
       "snippet": "Our 2025 annual letter Dear businesses running on Stripe generated $1.9 trillion in total volume, up 34% from 2024, and equivalent to roughly 1 ...",
       "link": "https://x.com/stripe/status/2026294241450979364"
+    },
+    {
+      "title": "Stripe's 2025 annual letter",
+      "snippet": "In 2025, businesses on Stripe generated $1.9 trillion\u2014equivalent to 1.6% of global GDP\u2014even as the economy bifurcated.",
+      "link": "https://stripe.com/annual-updates/2025"
+    },
+    {
+      "title": "Stripe Valuation in 2025: Smart Investment or Just Hype?",
+      "snippet": "Reuters reported in 2025 that Stripe's valuation reached $91.5 billion. The. As of June 2025, no IPO date has been scheduled for the future. ...",
+      "link": "https://www.fintechweekly.com/magazine/articles/stripe-valuation-in-2025"
     }
   ]
 }
