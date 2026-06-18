@@ -1,0 +1,69 @@
+{
+  "domain": "linear.app",
+  "name": "Linear",
+  "job_score": 1,
+  "job_reasons": [
+    "Growing GTM team: Jobs at Linear | Sequoia Capital"
+  ],
+  "news_score": 5,
+  "news_reasons": [
+    "Funding signal: Linear - 2026 Company Profile, Team, Funding & Competitors - Tracxn",
+    "Funding signal: Building our way: Announcing our Series C - Linear",
+    "Funding signal: Linear's Funding and Investor Information | Total Raised: $134M - Exa"
+  ],
+  "total_signal_score": 6,
+  "raw_jobs": [
+    {
+      "title": "We're hiring \u2013 Linear",
+      "snippet": "We are looking for people who share our passion for software craftsmanship and getting even the smallest details right.",
+      "link": "https://linear.app/careers"
+    },
+    {
+      "title": "Jobs at Linear | Sequoia Capital",
+      "snippet": "Careers at Linear ... We started Linear from our own frustrations building software projects in successful high-growth companies like Airbnb, Coinbase and Uber.",
+      "link": "https://jobs.sequoiacap.com/jobs/linear"
+    },
+    {
+      "title": "Linear careers are breaking. | Usman Sheikh - LinkedIn",
+      "snippet": "Linear careers are breaking. Here's how to build something stronger: By 2027, AI automation will erode the value of more than 60% of ...",
+      "link": "https://www.linkedin.com/posts/usmans_linear-careers-are-breaking-heres-how-activity-7331989851845582848-oztY"
+    },
+    {
+      "title": "Careers - MaxLinear",
+      "snippet": "Join MaxLinear to shape the future of networking and communications technology. You'll work with leading companies such as Dell, Meta, Comcast, Vodafone.",
+      "link": "https://www.maxlinear.com/company/careers"
+    },
+    {
+      "title": "Debunking linear career path expectations in 2026 - Facebook",
+      "snippet": "The 2025 job market marked a clear shift from the aggressive hiring of previous years to a more deliberate, selective approach. A critical ...",
+      "link": "https://www.facebook.com/groups/1336177993759909/posts/1900918013952568/"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "Linear - 2026 Company Profile, Team, Funding & Competitors - Tracxn",
+      "snippet": "Linear's latest funding was a $82M Series C round on Jun 10, 2025, with participation from 9investors. Where does Linear rank among its ...",
+      "link": "https://tracxn.com/d/companies/linear/__xC97n-jdX7VZjDBpNyRfVH-H_Elzu354nD5Yz5FaUVI"
+    },
+    {
+      "title": "Building our way: Announcing our Series C - Linear",
+      "snippet": "June 10, 2025 Today, we've raised an $82M Series C at a $1.25B valuation. The round includes both primary and secondary funding,",
+      "link": "https://linear.app/now/building-our-way"
+    },
+    {
+      "title": "Linear's Funding and Investor Information | Total Raised: $134M - Exa",
+      "snippet": "With a significant $82 million raised and a new $1.25 billion valuation, Linear focused these funds on expanding its engineering teams, growing internationally,",
+      "link": "https://exa.ai/websets/directory/linear-funding"
+    },
+    {
+      "title": "Software Development Company Linear Raises $82M Series C at ...",
+      "snippet": "Linear, a remote company building product development solutions, announced an $82 million round of Series C funding on Tuesday.",
+      "link": "https://www.builtinsf.com/articles/linear-raises-82m-series-c-1b-valuation-20250611"
+    },
+    {
+      "title": "Linear Raises $82 Million in Series C - The SaaS News",
+      "snippet": "Linear, a San Francisco, CA-based purpose-built tool for modern product development, has raised an $82 million Series C round at a $1.25 billion ...",
+      "link": "https://www.thesaasnews.com/news/linear-raises-82-million-in-series-c/"
+    }
+  ]
+}

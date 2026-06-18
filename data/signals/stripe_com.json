@@ -1,0 +1,70 @@
+{
+  "domain": "stripe.com",
+  "name": "Stripe",
+  "job_score": 4,
+  "job_reasons": [
+    "Growing GTM team: Marketing Operations Manager - Stripe",
+    "Growing GTM team: Sales Strategy & Operations Business Partner - Stripe",
+    "Growing GTM team: Marketing Operations Program Manager, Sold Funnel - LinkedIn"
+  ],
+  "news_score": 2,
+  "news_reasons": [
+    "Expansion signal: Stripe Newsroom: The Latest News & Announcements",
+    "Expansion signal: Our top product updates from Sessions 2025 - Stripe"
+  ],
+  "total_signal_score": 6,
+  "raw_jobs": [
+    {
+      "title": "Marketing Operations Manager - Stripe",
+      "snippet": "Minimum requirements \u00b7 6+ years of experience in B2B marketing operations, campaign management, or a related program management role within a high-growth ...",
+      "link": "https://stripe.com/jobs/listing/marketing-operations-manager/7253148"
+    },
+    {
+      "title": "Stripe: Jobs",
+      "snippet": "We're creating opportunities for entrepreneurs and enterprises to build products, implement new business models, and grow globally. And we want you to help.",
+      "link": "https://stripe.com/jobs"
+    },
+    {
+      "title": "Sales Strategy & Operations Business Partner - Stripe",
+      "snippet": "You'll have significant experience in (1) scaling a technology sales organization, (2) contributing to the growth and development of a sales operations team, ...",
+      "link": "https://stripe.com/jobs/listing/sales-strategy-operations-business-partner/7944515"
+    },
+    {
+      "title": "Marketing Operations Program Manager, Sold Funnel - LinkedIn",
+      "snippet": "3+ years of experience with Salesforce, including lead management, campaign attribution, and marketing-to-sales data flows \u00b7 Experience implementing AI tools to ...",
+      "link": "https://www.linkedin.com/jobs/view/marketing-operations-program-manager-sold-funnel-at-stripe-4416473563"
+    },
+    {
+      "title": "Marketing Operations Specialist (Lead Generation) - Stripe",
+      "snippet": "We are looking for someone who is passionate about Marketing Operations and thrives in dynamic, complex environments. You are naturally curious, collaborative ...",
+      "link": "https://stripe.com/jobs/listing/marketing-operations-specialist-lead-generation/7025164?__cf_chl_jschl_tk__=pmd_f6969fc42a4f39e3af2950c0e26100501dd9e9b3-1629084041-0-gqNtZGzNAiKjcnBszQiO&gh_src=14f171ca1"
+    }
+  ],
+  "raw_news": [
+    {
+      "title": "Stripe publishes 2025 annual letter and announces tender offer to ...",
+      "snippet": "Stripe publishes 2025 annual letter and announces tender offer to provide liquidity to current and former employees February 24, 2026 es ...",
+      "link": "https://stripe.com/newsroom/news/stripe-2025-update"
+    },
+    {
+      "title": "Stripe Newsroom: The Latest News & Announcements",
+      "snippet": "Stripe publishes 2025 annual letter and announces tender offer to provide liquidity to current and former employees February 24,",
+      "link": "https://stripe.com/newsroom/news"
+    },
+    {
+      "title": "Our top product updates from Sessions 2025 - Stripe",
+      "snippet": "This post recaps the top announcements and product releases. For a more detailed list of what's new since Sessions last year, see our changelog.",
+      "link": "https://stripe.com/blog/top-product-updates-sessions-2025"
+    },
+    {
+      "title": "Stripe Stats for 2026: The Most Accurate Stripe Statistics Online",
+      "snippet": "Stripe's estimated gross revenue hit $19.4 billion in 2025, a 61.67% increase since 2021. Stripe's valuation reached $159 billion in February 2026 via a tender ...",
+      "link": "https://www.chargeflow.io/blog/stripe-statistics"
+    },
+    {
+      "title": "Stripe (@stripe) on X",
+      "snippet": "Our 2025 annual letter Dear businesses running on Stripe generated $1.9 trillion in total volume, up 34% from 2024, and equivalent to roughly 1 ...",
+      "link": "https://x.com/stripe/status/2026294241450979364"
+    }
+  ]
+}
