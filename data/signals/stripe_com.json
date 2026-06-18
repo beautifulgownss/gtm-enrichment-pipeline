@@ -4,41 +4,41 @@
   "job_score": 5,
   "job_reasons": [
     "Growing GTM team: Marketing Operations Manager - Stripe",
-    "Growing GTM team: Sales Strategy & Operations Business Partner - Stripe",
-    "Growing GTM team: Marketing Operations Program Manager, Sold Funnel - LinkedIn"
+    "Hiring senior sales leader: Stripe Jobs",
+    "Growing GTM team: Sales Strategy & Operations Business Partner - Stripe"
   ],
   "news_score": 5,
   "news_reasons": [
-    "Expansion signal: Our top product updates from Sessions 2025 - Stripe",
     "Expansion signal: Stripe Newsroom: The Latest News & Announcements",
-    "Funding signal: Stripe (@stripe) on X"
+    "Funding signal: Stripe (@stripe) on X",
+    "Funding signal: Stripe Valuation in 2025: Smart Investment or Just Hype?"
   ],
   "total_signal_score": 10,
   "raw_jobs": [
-    {
-      "title": "Marketing Operations Manager - Stripe",
-      "snippet": "Minimum requirements \u00b7 6+ years of experience in B2B marketing operations, campaign management, or a related program management role within a high-growth ...",
-      "link": "https://stripe.com/jobs/listing/marketing-operations-manager/7253148"
-    },
     {
       "title": "Stripe: Jobs",
       "snippet": "We're creating opportunities for entrepreneurs and enterprises to build products, implement new business models, and grow globally. And we want you to help.",
       "link": "https://stripe.com/jobs"
     },
     {
-      "title": "Sales Strategy & Operations Business Partner - Stripe",
-      "snippet": "You'll have significant experience in (1) scaling a technology sales organization, (2) contributing to the growth and development of a sales operations team, ...",
-      "link": "https://stripe.com/jobs/listing/sales-strategy-operations-business-partner/7944515"
+      "title": "Marketing Operations Manager - Stripe",
+      "snippet": "Minimum requirements \u00b7 6+ years of experience in B2B marketing operations, campaign management, or a related program management role within a high-growth ...",
+      "link": "https://stripe.com/jobs/listing/marketing-operations-manager/7253148"
     },
     {
-      "title": "Marketing Operations Program Manager, Sold Funnel - LinkedIn",
-      "snippet": "3+ years of experience with Salesforce, including lead management, campaign attribution, and marketing-to-sales data flows \u00b7 Experience implementing AI tools to ...",
-      "link": "https://www.linkedin.com/jobs/view/marketing-operations-program-manager-sold-funnel-at-stripe-4416473563"
+      "title": "Stripe hiring Campaign Operations Manager in Chicago, IL | LinkedIn",
+      "snippet": "As the Campaign Operations Manager, you'll own the operational foundation that powers Stripe's global demand campaigns\u2014building the systems, ...",
+      "link": "https://www.linkedin.com/jobs/view/campaign-operations-manager-at-stripe-4427644286"
     },
     {
       "title": "Stripe Jobs",
       "snippet": "We operate at significant scale, but we're tiny relative to the opportunity ahead. Want to join us? See what career opportunities are available across our ...",
       "link": "https://stripe.com/jobs/search"
+    },
+    {
+      "title": "Sales Strategy & Operations Business Partner - Stripe",
+      "snippet": "Partner with senior sales and marketing leadership to define and execute go-to-market strategies and resource plans with a specific focus on assessing the ...",
+      "link": "https://stripe.com/jobs/listing/sales-strategy-operations-business-partner/7944515"
     }
   ],
   "raw_news": [
@@ -46,11 +46,6 @@
       "title": "Stripe publishes 2025 annual letter and announces tender offer to ...",
       "snippet": "Stripe announces tender offer to provide liquidity to current and former employees; publishes 2025 annual letter.",
       "link": "https://stripe.com/newsroom/news/stripe-2025-update"
-    },
-    {
-      "title": "Our top product updates from Sessions 2025 - Stripe",
-      "snippet": "This post recaps the top announcements and product releases. For a more detailed list of what's new since Sessions last year, see our changelog.",
-      "link": "https://stripe.com/blog/top-product-updates-sessions-2025"
     },
     {
       "title": "Stripe Newsroom: The Latest News & Announcements",
@@ -61,6 +56,11 @@
       "title": "Stripe (@stripe) on X",
       "snippet": "A Y Combinator founder can now receive funding in stablecoins, hold them in a Stripe ... Funding volume grew 45% from 2024 to 2025, with Stripe ...",
       "link": "https://x.com/stripe/status/2026294241450979364"
+    },
+    {
+      "title": "Stripe's 2025 annual letter",
+      "snippet": "Stripe's 2025 annual letter. In 2025, businesses on Stripe generated $1.9 trillion\u2014equivalent to 1.6% of global GDP\u2014even as the economy bifurcated. Competitive ...",
+      "link": "https://stripe.com/annual-updates/2025"
     },
     {
       "title": "Stripe Valuation in 2025: Smart Investment or Just Hype?",

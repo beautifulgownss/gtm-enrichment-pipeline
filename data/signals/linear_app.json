@@ -1,9 +1,10 @@
 {
   "domain": "linear.app",
   "name": "Linear",
-  "job_score": 2,
+  "job_score": 3,
   "job_reasons": [
-    "Scaling sales team: Linear Ad Sales jobs in New York, Ny"
+    "Growing GTM team: Jobs at Linear | Sequoia Capital",
+    "Scaling sales team: Advertising Sales Linear Jobs, Employment - Indeed"
   ],
   "news_score": 5,
   "news_reasons": [
@@ -11,32 +12,32 @@
     "Funding signal: Linear Raises $82 Million in Series C - The SaaS News",
     "Funding signal: Linear's Funding and Investor Information | Total Raised: $134M - Exa"
   ],
-  "total_signal_score": 7,
+  "total_signal_score": 8,
   "raw_jobs": [
     {
-      "title": "Linear Ad Sales jobs in New York, Ny",
-      "snippet": "88 Linear Ad Sales jobs available in New York, NY on Indeed.com. Apply to Sales Lead, Account Executive, Director of Partnerships and more!",
-      "link": "https://www.indeed.com/q-linear-ad-sales-l-new-york,-ny-jobs.html"
-    },
-    {
-      "title": "We're hiring",
+      "title": "We're hiring \u2013 Linear",
       "snippet": "We are looking for people who share our passion for software craftsmanship and getting even the smallest details right.",
       "link": "https://linear.app/careers"
     },
     {
-      "title": "890 Linear jobs in New York City Metropolitan Area",
-      "snippet": "Today's top 890 Linear jobs in New York City Metropolitan Area. Leverage your professional network, and get hired. New Linear jobs added daily.",
-      "link": "https://www.linkedin.com/jobs/linear-jobs-new-york-city-metropolitan-area"
+      "title": "Jobs at Linear | Sequoia Capital",
+      "snippet": "Careers at Linear ... We started Linear from our own frustrations building software projects in successful high-growth companies like Airbnb, Coinbase and Uber.",
+      "link": "https://jobs.sequoiacap.com/jobs/linear"
     },
     {
-      "title": "104 linear ad sales Jobs in New York, NY, May 2026",
-      "snippet": "Search Linear ad sales jobs in New York, NY with company ratings & salaries. 104 open jobs for Linear ad sales in New York.",
-      "link": "https://www.glassdoor.com/Job/linear-ad-sales-New-York-SRCH_KO0,15_IL.16,24_IC1132348.htm"
+      "title": "Advertising Sales Linear Jobs, Employment - Indeed",
+      "snippet": "743 Advertising Sales Linear jobs available on Indeed.com. Apply to Advertising Executive, Advertising Sales Representative, Account Executive and more!",
+      "link": "https://www.indeed.com/q-advertising-sales-linear-jobs.html"
     },
     {
-      "title": "Debunking linear career path expectations in 2026",
-      "snippet": "Stay aware about these patterns, low-cycle jobs like daily transaction operations are the least valuable. Jobs that are close to revenue ...",
-      "link": "https://www.facebook.com/groups/1336177993759909/posts/1900918013952568/"
+      "title": "Linear careers are breaking. | Usman Sheikh - LinkedIn",
+      "snippet": "Linear careers are breaking. Here's how to build something stronger: By 2027, AI automation will erode the value of more than 60% of ...",
+      "link": "https://www.linkedin.com/posts/usmans_linear-careers-are-breaking-heres-how-activity-7331989851845582848-oztY"
+    },
+    {
+      "title": "Careers - MaxLinear",
+      "snippet": "Join MaxLinear to shape the future of networking and communications technology. You'll work with leading companies such as Dell, Meta, Comcast, Vodafone.",
+      "link": "https://www.maxlinear.com/company/careers"
     }
   ],
   "raw_news": [

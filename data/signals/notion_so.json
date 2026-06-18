@@ -1,8 +1,9 @@
 {
   "domain": "notion.so",
   "name": "Notion",
-  "job_score": 2,
+  "job_score": 3,
   "job_reasons": [
+    "Growing GTM team: Careers at Notion | We're Hiring!",
     "Growing GTM team: Head of Marketing Strategy & Operations - Notion",
     "Growing GTM team: Marketing Strategy & Operations Manager (SF) - Base10 Job Board"
   ],
@@ -12,17 +13,12 @@
     "Funding signal: Notion - 2026 Company Profile, Team, Funding & Competitors - Tracxn",
     "Expansion signal: GIC, Sequoia, Index purchase Notion shares in private tender offer"
   ],
-  "total_signal_score": 7,
+  "total_signal_score": 8,
   "raw_jobs": [
     {
       "title": "Careers at Notion | We're Hiring!",
-      "snippet": "Dive into the 3 organizations that make up our team at Notion - EPD (Engineering, Product, Design), Go-to-Market, and Foundation (G&A) and how we work together.",
+      "snippet": "Careers at Notion. Browse full-time openings -oh! Field Marketing Manager San Francisco, California; New York Sales Operations Lead, AMER San Francisco, ...",
       "link": "https://www.notion.com/careers"
-    },
-    {
-      "title": "Notion NYC Jobs + Careers",
-      "snippet": "Explore jobs and careers at Notion in NYC. Notion is currently hiring for a range of positions.",
-      "link": "https://www.builtinnyc.com/company/notion/jobs"
     },
     {
       "title": "Head of Marketing Strategy & Operations - Notion",
@@ -30,14 +26,19 @@
       "link": "https://www.builtinsf.com/job/head-marketing-strategy-operations/3711478"
     },
     {
+      "title": "Marketing Strategy & Operations Manager (SF) - Base10 Job Board",
+      "snippet": "Marketing Strategy & Operations Manager (SF) Notion Notion This job is no longer accepting applications. USD 179k-210k / year + Equity Posted ...",
+      "link": "https://careers.base10.vc/companies/notion-2/jobs/61028175-marketing-strategy-operations-manager"
+    },
+    {
       "title": "Notion: Jobs - LinkedIn",
       "snippet": "Jobs at Notion \u00b7 Sales Operations Lead, AMER \u00b7 Data Engineer, People Analytics \u00b7 Legal Ops Program & AI Enablement \u00b7 Corporate Finance, Special Projects.",
       "link": "https://www.linkedin.com/company/notionhq/jobs"
     },
     {
-      "title": "Marketing Strategy & Operations Manager (SF) - Base10 Job Board",
-      "snippet": "In this role, you'll own the reporting, metrics, and insights that shape how we plan, measure, and optimize marketing performance. You'll ...",
-      "link": "https://careers.base10.vc/companies/notion-2/jobs/61028175-marketing-strategy-operations-manager"
+      "title": "Sales Operations Lead, AMER - Notion - Index Ventures",
+      "snippet": "In this position, you'll play a crucial role in shaping our go-to-market strategy and driving data-informed decision-making within the AMER ...",
+      "link": "https://www.indexventures.com/startup-jobs/notion/sales-operations-lead-amer/"
     }
   ],
   "raw_news": [

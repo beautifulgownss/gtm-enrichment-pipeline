@@ -20,14 +20,14 @@
     "job_score": 5,
     "job_reasons": [
       "Growing GTM team: Marketing Operations Manager - Stripe",
-      "Growing GTM team: Sales Strategy & Operations Business Partner - Stripe",
-      "Growing GTM team: Marketing Operations Program Manager, Sold Funnel - LinkedIn"
+      "Hiring senior sales leader: Stripe Jobs",
+      "Growing GTM team: Sales Strategy & Operations Business Partner - Stripe"
     ],
     "news_score": 5,
     "news_reasons": [
-      "Expansion signal: Our top product updates from Sessions 2025 - Stripe",
       "Expansion signal: Stripe Newsroom: The Latest News & Announcements",
-      "Funding signal: Stripe (@stripe) on X"
+      "Funding signal: Stripe (@stripe) on X",
+      "Funding signal: Stripe Valuation in 2025: Smart Investment or Just Hype?"
     ],
     "total_signal_score": 10,
     "composite_score": 10.0,
@@ -54,14 +54,13 @@
     "job_score": 5,
     "job_reasons": [
       "Scaling sales team: Vercel - Sales Strategy & Operations, Startups - Built In San Francisco",
-      "Growing GTM team: Sr. Marketing Operations Manager, Systems @ Vercel",
       "Hiring senior sales leader: Product Strategy & Operations - Vercel"
     ],
     "news_score": 5,
     "news_reasons": [
-      "Funding signal: Towards the AI Cloud: Our Series F",
+      "Funding signal: Towards the AI Cloud: Our Series F - Vercel",
       "Funding signal: Vercel revenue, valuation & funding | Sacra",
-      "Funding signal: Vercel is raising new funding at $9B valuation amid AI growth"
+      "Funding signal: Report: Vercel is raising new funding at $9B valuation amid AI growth"
     ],
     "total_signal_score": 10,
     "composite_score": 10.0,
@@ -87,9 +86,9 @@
     "recommendation": "High priority",
     "job_score": 5,
     "job_reasons": [
-      "Hiring senior sales leader: Careers - Retool",
+      "Growing GTM team: Careers - Retool",
       "Scaling sales team: Retool - Customer Success Strategy & Operations Lead - Built In NYC",
-      "Scaling sales team: Retool hiring Manager, Sales Strategy & Operations in New York, NY"
+      "Scaling sales team: Revenue Operations Manager, Marketing - Retool | Built In"
     ],
     "news_score": 5,
     "news_reasons": [
@@ -118,9 +117,10 @@
       "position": "Sales Director"
     },
     "recommendation": "High priority",
-    "job_score": 2,
+    "job_score": 3,
     "job_reasons": [
-      "Scaling sales team: Linear Ad Sales jobs in New York, Ny"
+      "Growing GTM team: Jobs at Linear | Sequoia Capital",
+      "Scaling sales team: Advertising Sales Linear Jobs, Employment - Indeed"
     ],
     "news_score": 5,
     "news_reasons": [
@@ -128,8 +128,8 @@
       "Funding signal: Linear Raises $82 Million in Series C - The SaaS News",
       "Funding signal: Linear's Funding and Investor Information | Total Raised: $134M - Exa"
     ],
-    "total_signal_score": 7,
-    "composite_score": 8.4,
+    "total_signal_score": 8,
+    "composite_score": 8.7,
     "final_recommendation": "High priority"
   },
   {
@@ -140,8 +140,9 @@
     "reasons": [],
     "best_contact": null,
     "recommendation": "Low priority",
-    "job_score": 2,
+    "job_score": 3,
     "job_reasons": [
+      "Growing GTM team: Careers at Notion | We're Hiring!",
       "Growing GTM team: Head of Marketing Strategy & Operations - Notion",
       "Growing GTM team: Marketing Strategy & Operations Manager (SF) - Base10 Job Board"
     ],
@@ -151,8 +152,8 @@
       "Funding signal: Notion - 2026 Company Profile, Team, Funding & Competitors - Tracxn",
       "Expansion signal: GIC, Sequoia, Index purchase Notion shares in private tender offer"
     ],
-    "total_signal_score": 7,
-    "composite_score": 5.6,
+    "total_signal_score": 8,
+    "composite_score": 5.9,
     "final_recommendation": "Medium priority"
   }
 ]
