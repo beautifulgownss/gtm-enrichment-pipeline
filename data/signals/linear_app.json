@@ -1,10 +1,9 @@
 {
   "domain": "linear.app",
   "name": "Linear",
-  "job_score": 3,
+  "job_score": 1,
   "job_reasons": [
-    "Growing GTM team: Jobs at Linear | Sequoia Capital",
-    "Scaling sales team: Advertising Sales Linear Jobs, Employment - Indeed"
+    "Growing GTM team: Jobs at Linear | Sequoia Capital"
   ],
   "news_score": 5,
   "news_reasons": [
@@ -12,7 +11,7 @@
     "Funding signal: Linear Raises $82 Million in Series C - The SaaS News",
     "Funding signal: Linear's Funding and Investor Information | Total Raised: $134M - Exa"
   ],
-  "total_signal_score": 8,
+  "total_signal_score": 6,
   "raw_jobs": [
     {
       "title": "We're hiring \u2013 Linear",
@@ -20,24 +19,24 @@
       "link": "https://linear.app/careers"
     },
     {
+      "title": "Linear Advertising Jobs, Employment in Chicago, IL | Indeed",
+      "snippet": "12 Linear Advertising jobs available in Chicago, IL on Indeed.com. Apply to Director of Analytics, C++ Developer, Full Stack Developer and more!",
+      "link": "https://www.indeed.com/q-linear-advertising-l-chicago,-il-jobs.html"
+    },
+    {
       "title": "Jobs at Linear | Sequoia Capital",
       "snippet": "Careers at Linear ... We started Linear from our own frustrations building software projects in successful high-growth companies like Airbnb, Coinbase and Uber.",
       "link": "https://jobs.sequoiacap.com/jobs/linear"
     },
     {
-      "title": "Advertising Sales Linear Jobs, Employment - Indeed",
-      "snippet": "743 Advertising Sales Linear jobs available on Indeed.com. Apply to Advertising Executive, Advertising Sales Representative, Account Executive and more!",
-      "link": "https://www.indeed.com/q-advertising-sales-linear-jobs.html"
+      "title": "Debunking linear career path expectations in 2026 - Facebook",
+      "snippet": "Things will repeat after these cycles. Stay aware about these patterns, low-cycle jobs like daily transaction operations are the least valuable.",
+      "link": "https://www.facebook.com/groups/1336177993759909/posts/1900918013952568/"
     },
     {
-      "title": "Linear careers are breaking. | Usman Sheikh - LinkedIn",
-      "snippet": "Linear careers are breaking. Here's how to build something stronger: By 2027, AI automation will erode the value of more than 60% of ...",
-      "link": "https://www.linkedin.com/posts/usmans_linear-careers-are-breaking-heres-how-activity-7331989851845582848-oztY"
-    },
-    {
-      "title": "Careers - MaxLinear",
-      "snippet": "Join MaxLinear to shape the future of networking and communications technology. You'll work with leading companies such as Dell, Meta, Comcast, Vodafone.",
-      "link": "https://www.maxlinear.com/company/careers"
+      "title": "$33-$44/hr Linear Jobs (NOW HIRING) Jun 2026 - ZipRecruiter",
+      "snippet": "Browse 1000+ LINEAR jobs ($33-$44/hr) from companies hiring now. New openings posted daily. Apply early, be seen first & 1-click apply today!",
+      "link": "https://www.ziprecruiter.com/Jobs/Linear"
     }
   ],
   "raw_news": [

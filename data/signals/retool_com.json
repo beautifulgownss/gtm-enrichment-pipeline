@@ -1,34 +1,27 @@
 {
   "domain": "retool.com",
   "name": "Retool",
-  "job_score": 5,
+  "job_score": 1,
   "job_reasons": [
-    "Growing GTM team: Careers - Retool",
-    "Scaling sales team: Retool - Customer Success Strategy & Operations Lead - Built In NYC",
-    "Scaling sales team: Revenue Operations Manager, Marketing - Retool | Built In"
+    "Growing GTM team: Careers - Retool"
   ],
   "news_score": 5,
   "news_reasons": [
     "Expansion signal: Retool Newsroom | Press releases, Media kit, Company news",
     "Funding signal: Retool - 2026 Company Profile, Team, Funding & Competitors - Tracxn",
-    "Funding signal: How Much Did Retool Raise? Funding & Key Investors - Clay"
+    "Funding signal: How Much Did Retool Raise? Funding & Key Investors | Clay"
   ],
-  "total_signal_score": 10,
+  "total_signal_score": 6,
   "raw_jobs": [
+    {
+      "title": "Retool NYC Jobs + Careers",
+      "snippet": "Explore jobs and careers at Retool in NYC. Retool is currently hiring for a range of positions.",
+      "link": "https://www.builtinnyc.com/company/retool/jobs"
+    },
     {
       "title": "Careers - Retool",
       "snippet": "Open Careers at Retool \u00b7 Business Operations \u00b7 Data Science & Analytics \u00b7 Design \u00b7 Engineering \u00b7 Finance \u00b7 IT \u00b7 Marketing \u00b7 People.",
       "link": "https://retool.com/careers"
-    },
-    {
-      "title": "Retool - Customer Success Strategy & Operations Lead - Built In NYC",
-      "snippet": "We're looking for a Customer Success Operations Lead to join the Revenue Operations team. Our team is responsible for accelerating Retool's revenue growth.",
-      "link": "https://www.builtinnyc.com/job/customer-success-strategy-operations-lead/4824336"
-    },
-    {
-      "title": "Retool hiring Manager, Sales Strategy & Operations in New York, NY",
-      "snippet": "You'll work directly with GTM leadership to shape priorities, drive key initiatives, and make sure our revenue engine scales with intention \u2014 ...",
-      "link": "https://www.linkedin.com/jobs/view/manager-sales-strategy-operations-at-retool-4417273237"
     },
     {
       "title": "Retool Careers - Gem",
@@ -36,9 +29,14 @@
       "link": "https://jobs.gem.com/retool"
     },
     {
-      "title": "Revenue Operations Manager, Marketing - Retool | Built In",
-      "snippet": "Retool is hiring for a Remote Revenue Operations Manager, Marketing in San Francisco, CA, USA. Find more details about the job and how to apply at Built In.",
-      "link": "https://builtin.com/job/revenue-operations-manager-marketing/7334828"
+      "title": "Retool hiring Manager, Sales Strategy & Operations in New York, NY",
+      "snippet": "You'll work directly with GTM leadership to shape priorities, drive key initiatives, and make sure our revenue engine scales with intention \u2014 ...",
+      "link": "https://www.linkedin.com/jobs/view/manager-sales-strategy-operations-at-retool-4417273237"
+    },
+    {
+      "title": "Retool | Build internal software better, with AI.",
+      "snippet": "Build, deploy, and manage internal tools with Retool's unified engine. Connect to any database, API, or LLM. Leverage AI throughout your business.",
+      "link": "https://retool.com/"
     }
   ],
   "raw_news": [
@@ -49,7 +47,7 @@
     },
     {
       "title": "Retool Newsroom | Press releases, Media kit, Company news",
-      "snippet": "02.17.2026 Retool signs strategic collaboration agreement with AWS to drive enterprise AppGen innovation at. Retool awarded 2025 Databricks Emerging Partner of ...",
+      "snippet": "Retool unveils first platform to extend enterprise governance to all AI-coded apps. Retool signs strategic collaboration agreement with AWS press@retool.com",
       "link": "https://retool.com/newsroom"
     },
     {
@@ -58,8 +56,8 @@
       "link": "https://tracxn.com/d/companies/retool/__3Qw2mDrisfHcLzB8sG6xEXwD7lueXw7kuVlus34H2KY"
     },
     {
-      "title": "How Much Did Retool Raise? Funding & Key Investors - Clay",
-      "snippet": "Future fundraising seems promising, given Retool's $3.2 billion valuation and strong investor backing. The company is likely to continue ...",
+      "title": "How Much Did Retool Raise? Funding & Key Investors | Clay",
+      "snippet": "Retool Total amount raised $3.2 Billion. Retool has successfully raised funding over 5 rounds, Retool's $3.2 billion valuation and strong investor backing.",
       "link": "https://www.clay.com/dossier/retool-funding"
     },
     {

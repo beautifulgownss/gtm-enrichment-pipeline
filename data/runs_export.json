@@ -1,5 +1,70 @@
 [
   {
+    "id": 5,
+    "run_id": "run_20260620_163739_a7c8a5",
+    "timestamp": "2026-06-20T16:37:55.219271",
+    "companies_processed": 5,
+    "high_priority": 4,
+    "medium_priority": 1,
+    "low_priority": 0,
+    "avg_composite_score": 8.5,
+    "estimated_token_cost": 0.01,
+    "duration_seconds": 16.21,
+    "notes": "Full pipeline run",
+    "scores": [
+      {
+        "id": 21,
+        "run_id": "run_20260620_163739_a7c8a5",
+        "domain": "vercel.com",
+        "name": "Vercel",
+        "base_score": 10.0,
+        "signal_score": 10.0,
+        "composite_score": 10.0,
+        "recommendation": "High priority"
+      },
+      {
+        "id": 22,
+        "run_id": "run_20260620_163739_a7c8a5",
+        "domain": "stripe.com",
+        "name": "Stripe",
+        "base_score": 10.0,
+        "signal_score": 9.0,
+        "composite_score": 9.7,
+        "recommendation": "High priority"
+      },
+      {
+        "id": 23,
+        "run_id": "run_20260620_163739_a7c8a5",
+        "domain": "retool.com",
+        "name": "Retool",
+        "base_score": 10.0,
+        "signal_score": 6.0,
+        "composite_score": 8.8,
+        "recommendation": "High priority"
+      },
+      {
+        "id": 24,
+        "run_id": "run_20260620_163739_a7c8a5",
+        "domain": "linear.app",
+        "name": "Linear",
+        "base_score": 9.0,
+        "signal_score": 6.0,
+        "composite_score": 8.1,
+        "recommendation": "High priority"
+      },
+      {
+        "id": 25,
+        "run_id": "run_20260620_163739_a7c8a5",
+        "domain": "notion.so",
+        "name": "Notion",
+        "base_score": 5.0,
+        "signal_score": 8.0,
+        "composite_score": 5.9,
+        "recommendation": "Medium priority"
+      }
+    ]
+  },
+  {
     "id": 4,
     "run_id": "run_20260618_221608_a14976",
     "timestamp": "2026-06-18T22:16:23.478693",
