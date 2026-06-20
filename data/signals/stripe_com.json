@@ -4,14 +4,14 @@
   "job_score": 4,
   "job_reasons": [
     "Growing GTM team: Marketing Operations Manager - Stripe",
-    "Growing GTM team: Sales Strategy & Operations Business Partner - Stripe",
-    "Growing GTM team: Marketing Operations Lead @ Stripe | Base10 Job Board"
+    "Growing GTM team: Marketing Operations Manager - Stripe",
+    "Growing GTM team: Marketing Operations Program Manager, Sold Funnel - LinkedIn"
   ],
   "news_score": 5,
   "news_reasons": [
-    "Expansion signal: Our top product updates from Sessions 2025 - Stripe",
     "Expansion signal: Stripe Newsroom: The Latest News & Announcements",
-    "Funding signal: Stripe (@stripe) on X"
+    "Funding signal: Stripe (@stripe) on X",
+    "Funding signal: Stripe Valuation in 2025: Smart Investment or Just Hype?"
   ],
   "total_signal_score": 9,
   "raw_jobs": [
@@ -26,19 +26,19 @@
       "link": "https://stripe.com/jobs"
     },
     {
-      "title": "Sales Strategy & Operations Business Partner - Stripe",
-      "snippet": "You'll have significant experience in (1) scaling a technology sales organization, (2) contributing to the growth and development of a sales operations team, ...",
-      "link": "https://stripe.com/jobs/listing/sales-strategy-operations-business-partner/7944515"
-    },
-    {
-      "title": "Marketing Operations Lead @ Stripe | Base10 Job Board",
-      "snippet": "This is an incredible opportunity to be a part of the Demand Operations team that plays an integral role in collaboratively driving high quality pipeline ...",
-      "link": "https://careers.base10.vc/companies/stripe/jobs/45124283-marketing-operations-lead"
+      "title": "Marketing Operations Manager - Stripe",
+      "snippet": "10+ years relevant work experience in Marketing Operations; 5+ years of experience in leading teams; 6+ years of hands-on experience in Marketo (or similar) ...",
+      "link": "https://stripe.com/jobs/listing/marketing-operations-manager/7805386"
     },
     {
       "title": "Marketing Operations Program Manager, Sold Funnel - LinkedIn",
       "snippet": "3+ years of experience with Salesforce, including lead management, campaign attribution, and marketing-to-sales data flows \u00b7 Experience implementing AI tools to ...",
       "link": "https://www.linkedin.com/jobs/view/marketing-operations-program-manager-sold-funnel-at-stripe-4416473563"
+    },
+    {
+      "title": "Sales Strategy & Operations Business Partner - Stripe",
+      "snippet": "You'll have significant experience in (1) scaling a technology sales organization, (2) contributing to the growth and development of a sales operations team, ...",
+      "link": "https://stripe.com/jobs/listing/sales-strategy-operations-business-partner/7944515"
     }
   ],
   "raw_news": [
@@ -46,11 +46,6 @@
       "title": "Stripe publishes 2025 annual letter and announces tender offer to ...",
       "snippet": "Stripe announces tender offer to provide liquidity to current and former employees; publishes 2025 annual letter.",
       "link": "https://stripe.com/newsroom/news/stripe-2025-update"
-    },
-    {
-      "title": "Our top product updates from Sessions 2025 - Stripe",
-      "snippet": "This post recaps the top announcements and product releases. For a more detailed list of what's new since Sessions last year, see our changelog.",
-      "link": "https://stripe.com/blog/top-product-updates-sessions-2025"
     },
     {
       "title": "Stripe Newsroom: The Latest News & Announcements",
@@ -61,6 +56,11 @@
       "title": "Stripe (@stripe) on X",
       "snippet": "A Y Combinator founder can now receive funding in stablecoins, hold them in a Stripe ... Funding volume grew 45% from 2024 to 2025, with Stripe ...",
       "link": "https://x.com/stripe/status/2026294241450979364"
+    },
+    {
+      "title": "Stripe's 2025 annual letter",
+      "snippet": "Stripe's 2025 annual letter. In 2025, businesses on Stripe generated $1.9 trillion\u2014equivalent to 1.6% of global GDP\u2014even as the economy bifurcated. Competitive ...",
+      "link": "https://stripe.com/annual-updates/2025"
     },
     {
       "title": "Stripe Valuation in 2025: Smart Investment or Just Hype?",

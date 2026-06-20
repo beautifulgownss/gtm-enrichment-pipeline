@@ -1,49 +1,60 @@
 {
   "domain": "linear.app",
   "name": "Linear",
-  "job_score": 1,
+  "job_score": 3,
   "job_reasons": [
+    "Scaling sales team: Linear Ad Sales jobs in New York, Ny",
     "Growing GTM team: Jobs at Linear | Sequoia Capital"
   ],
   "news_score": 5,
   "news_reasons": [
+    "Funding signal: Linear - 2026 Company Profile, Team, Funding & Competitors - Tracxn",
     "Funding signal: Software Development Company Linear Raises $82M Series C at ...",
-    "Funding signal: Linear Raises $82 Million in Series C - The SaaS News",
-    "Funding signal: Linear's Funding and Investor Information | Total Raised: $134M - Exa"
+    "Funding signal: Building our way: Announcing our Series C - Linear"
   ],
-  "total_signal_score": 6,
+  "total_signal_score": 8,
   "raw_jobs": [
     {
-      "title": "We're hiring \u2013 Linear",
+      "title": "We're hiring",
       "snippet": "We are looking for people who share our passion for software craftsmanship and getting even the smallest details right.",
       "link": "https://linear.app/careers"
     },
     {
-      "title": "Linear Advertising Jobs, Employment in Chicago, IL | Indeed",
-      "snippet": "12 Linear Advertising jobs available in Chicago, IL on Indeed.com. Apply to Director of Analytics, C++ Developer, Full Stack Developer and more!",
-      "link": "https://www.indeed.com/q-linear-advertising-l-chicago,-il-jobs.html"
+      "title": "Linear Ad Sales jobs in New York, Ny",
+      "snippet": "75 Linear Ad Sales jobs available in New York, NY on Indeed.com. Apply to Account Executive, Director of Partnerships, Vice President of Strategy and more!",
+      "link": "https://www.indeed.com/q-linear-ad-sales-l-new-york,-ny-jobs.html"
     },
     {
       "title": "Jobs at Linear | Sequoia Capital",
-      "snippet": "Careers at Linear ... We started Linear from our own frustrations building software projects in successful high-growth companies like Airbnb, Coinbase and Uber.",
+      "snippet": "Careers at Linear Growth100\u20131000. Filter jobs by skills and more Roles. Apply Manager, Growth Sales RemoteUnited. Artificial IntelligenceSales ...",
       "link": "https://jobs.sequoiacap.com/jobs/linear"
     },
     {
-      "title": "Debunking linear career path expectations in 2026 - Facebook",
-      "snippet": "Things will repeat after these cycles. Stay aware about these patterns, low-cycle jobs like daily transaction operations are the least valuable.",
-      "link": "https://www.facebook.com/groups/1336177993759909/posts/1900918013952568/"
+      "title": "**We are hiring: Operations Associate** **\ud83d\udccd Hybrid setup** ...",
+      "snippet": "Sept 2025 \u2013 June 2026 Mount Pearl. Public HIRING: Sales Operations Coordinator 100% Remote Monday-Friday Full-time, EST",
+      "link": "https://www.facebook.com/groups/MarketingJobsandInternshipsPH/posts/3242696025903060/"
     },
     {
-      "title": "$33-$44/hr Linear Jobs (NOW HIRING) Jun 2026 - ZipRecruiter",
-      "snippet": "Browse 1000+ LINEAR jobs ($33-$44/hr) from companies hiring now. New openings posted daily. Apply early, be seen first & 1-click apply today!",
-      "link": "https://www.ziprecruiter.com/Jobs/Linear"
+      "title": "Careers",
+      "snippet": "Join MaxLinear to shape the future of networking and communications technology. You'll work with leading companies such as Dell, Meta, Comcast, Vodafone.",
+      "link": "https://www.maxlinear.com/company/careers"
     }
   ],
   "raw_news": [
     {
+      "title": "Linear - 2026 Company Profile, Team, Funding & Competitors - Tracxn",
+      "snippet": "Linear's latest funding was a $82M Series C round on Jun 10, 2025, with participation from 9investors. Where does Linear rank among its ...",
+      "link": "https://tracxn.com/d/companies/linear/__xC97n-jdX7VZjDBpNyRfVH-H_Elzu354nD5Yz5FaUVI"
+    },
+    {
       "title": "Software Development Company Linear Raises $82M Series C at ...",
       "snippet": "Linear, a remote company building product development solutions, announced an $82 million round of Series C funding on Tuesday.",
       "link": "https://www.builtinsf.com/articles/linear-raises-82m-series-c-1b-valuation-20250611"
+    },
+    {
+      "title": "Building our way: Announcing our Series C - Linear",
+      "snippet": "Today, I'm happy to share that we've raised an $82M Series C at a $1.25B valuation. The round includes both primary and secondary funding, led ...",
+      "link": "https://linear.app/now/building-our-way"
     },
     {
       "title": "Linear Raises $82 Million in Series C - The SaaS News",
@@ -54,16 +65,6 @@
       "title": "Linear's Funding and Investor Information | Total Raised: $134M - Exa",
       "snippet": "With a significant $82 million raised and a new $1.25 billion valuation, Linear focused these funds on expanding its engineering teams, growing internationally, ...",
       "link": "https://exa.ai/websets/directory/linear-funding"
-    },
-    {
-      "title": "Building our way: Announcing our Series C - Linear",
-      "snippet": "Today, I'm happy to share that we've raised an $82M Series C at a $1.25B valuation. The round includes both primary and secondary funding, led ...",
-      "link": "https://linear.app/now/building-our-way"
-    },
-    {
-      "title": "Atlassian competitor Linear raises funding at $1.25-billion valuation",
-      "snippet": "SAN FRANCISCO (Reuters) -Enterprise software maker Linear has raised an $82 million Series C funding round valuing the startup at $1.25 billion, ...",
-      "link": "https://finance.yahoo.com/news/atlassian-competitor-linear-raises-funding-122031727.html"
     }
   ]
 }
